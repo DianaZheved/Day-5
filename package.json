@@ -1,0 +1,24 @@
+{
+  "name": "dvagusya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.12.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/vladlutsenko/project2.git"
+  },
+  "author": "Vlad Lutsenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/vladlutsenko/project2/issues"
+  },
+  "homepage": "https://gitlab.com/vladlutsenko/project2#readme"
+}
